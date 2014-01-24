@@ -1,9 +1,20 @@
-in order to compare, you need to download two web pages into the same folder this python file locates.
-run this command in cmd: mini_SVN.py oldfilename.html newfilename.html
-oldfilename is the name first HTML file, newfilename  is the name of second HTML file, according to their names
-once showing:Done, Please check!
-you can check HTMLdiff.html under the same folder, open it in the browser directly
-by comparing all the difference in HTML code, you can see where and what has been changed:underscore means insert, highlight means replaced
+mini SVN
+
+In order to compare, you need to:
+
+1.download two web pages into the same folder this python file locates.
+
+2.run this command in cmd: mini_SVN.py oldfilename.html newfilename.html
+
+3.oldfilename is the name first HTML file, newfilename  is the name of second HTML file, according to their names
+
+4.once showing:Done, Please check!
+
+5.you can check HTMLdiff.html under the same folder, open it in the browser directly
+
+6.by comparing all the difference in HTML code, you can see where and what has been changed:underscore means insert, highlight means replaced
 hyphen means deleted
 
 enjoy!
+
+This py is developed with python 2.7.
